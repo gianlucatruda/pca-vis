@@ -4,8 +4,6 @@ Concept inspired by this project: https://github.com/HackerPoet/FaceEditor
 """
 
 # Standar library
-import os
-import time
 import sys
 import logging
 # Third-party libraries
