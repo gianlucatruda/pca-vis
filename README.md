@@ -28,6 +28,10 @@ python3 pca_vis.py
 
 Or load any dataset as a Pandas DataFrame and pass it into the `main()` function as an argument.
 
+## Understanding 
+
+To learn a bit more about PCA, check out my friend Gary's [repo](https://github.com/GaryFinkelstein/Principal-Component-Analysis).
+
 
 ## Contributions
 
