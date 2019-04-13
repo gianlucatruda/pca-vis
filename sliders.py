@@ -1,3 +1,11 @@
+"""Code to define slider objects in PyGame.
+
+Adapted from this post:
+https://www.dreamincode.net/forums/topic/401541-buttons-and-sliders-in-pygame/
+
+"""
+
+
 import pygame
 import math
 import sys
